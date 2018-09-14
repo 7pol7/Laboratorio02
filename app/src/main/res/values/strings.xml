@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Laboratorio02</string>
     <string name="main_titulo">Menu de opciones</string>
+    <string name="stgSeleccionarCategoria">Seleccionar una categoria</string>
+    <string name="stgListaProd">Lista de productos</string>
+    <string name="stgCantPedir">Cantidad a pedir</string>
+    <string name="stgAgregar">Agregar</string>
+    <string name="stgCeroNum">0</string>
 </resources>
